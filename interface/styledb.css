@@ -1,0 +1,139 @@
+body
+{
+    font-family: Candara, Calibri;
+    color: #333;
+	font-size:11pt;
+	background-image:url('eikones/bottles.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:right bottom; 
+}
+
+
+.universe
+{
+    width: 100%;
+    margin: auto;
+}
+
+form textarea
+{
+	width: 30%;
+    height: 50px;
+    padding: 3px;
+}
+
+input#title
+{
+	width: 590px;
+    height: 20px;
+    padding: 3px;
+	margin-bottom:2px;
+}
+
+h1
+{
+
+	margin-left:1150px;
+
+}
+
+
+
+form.login div#bla1
+{
+	margin-left:147px;;
+	margin-top:20px;
+}
+
+form.login label
+{
+	margin:auto;
+    display: block;
+    float: left;
+    width: 100px;
+	font-size:20px;
+}
+
+
+form.login div
+{
+	margin:auto;
+    clear: both;
+    color: #006600;
+}
+
+td#login
+{
+	width:300px;
+}
+
+img#logo
+{
+	margin-left:310px;
+}
+
+td#welcome
+{
+	font-size:105px;
+	text-align:center;
+}
+
+table#first_table
+{
+	margin:auto;
+}
+
+span#bgreen
+{
+	font-family: Berlin Sans FB Demi, Calibri;
+    color: #006600;
+}
+
+table#recycler
+{
+	margin-left:200px;
+}
+
+table#kiosks
+{
+
+	width:400px;
+}
+
+
+div#kiosks
+{
+	margin-left:100px;
+}
+
+table#gift, div#gift
+{
+	margin-left:140px;
+}
+
+table#recyclings
+{
+	width:800px;
+}
+
+tr#first_row
+{
+	font-weight:bold;
+	font-size:20px;
+}
+
+div#stoixeia
+{
+	margin-left:140px;
+}
+
+div#text
+{
+	margin-left:150px;
+}
+table#employees
+{
+	width: 800px;
+	text-align:center;
+}

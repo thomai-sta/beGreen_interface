@@ -1,0 +1,95 @@
+body
+{
+    font-family: Candara, Calibri;
+    color: #333;
+	font-size:11pt;
+	background-image:url('eikones/bottles.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:right bottom; 
+}
+
+
+.universe
+{
+    width: 800px;
+    margin: auto;
+}
+
+form textarea
+{
+	width: 400px;
+    height: 25px;
+    padding: 3px;
+}
+
+input#title
+{
+	width: 590px;
+    height: 20px;
+    padding: 3px;
+	margin-bottom:2px;
+}
+
+form.comment qu
+{
+    height: 60px;
+}
+
+h1
+{
+    margin-bottom: 15px;
+	text-align:right;
+	float:left;
+}
+
+div#photo
+{
+	align:center;
+	margin-left:150px;
+}
+
+img#logo
+{
+	margin-left:250px;
+}
+
+table#first_table
+{
+	margin:auto;
+}
+
+span#bgreen
+{
+	font-family: Berlin Sans FB Demi, Calibri;
+    color: #006600;
+}
+
+table#stoixeia{
+	margin-left:120px;
+	margin-top:30px;
+}
+
+table#gifts {
+	width:700px;
+	margin-top:40px;
+	margin-left:100px;
+}
+
+tr#first_row
+{
+	font-weight:bold;
+	font-size:20px;
+}
+
+td#stoixeia
+{
+	font-weight:bold;
+	font-size:16px;
+}
+
+table#edit_company
+{
+	margin-top:30px;
+	margin-left:120px;
+}

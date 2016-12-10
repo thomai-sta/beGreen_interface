@@ -1,0 +1,245 @@
+body
+{
+    font-family: Candara, Calibri;
+    color: #333;
+	font-size:11pt;
+	background-image:url('eikones/bottles.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:right bottom; 
+}
+
+.universe
+{
+    width: 75%;
+    margin: auto;
+}
+
+form textarea
+{
+	width: 70%;
+    height: 30px;
+    padding: 3px;
+	}
+
+input#title
+{
+	width: 590px;
+    height: 20px;
+    padding: 3px;
+	margin-bottom:2px;
+}
+
+h1
+{
+    margin-bottom: 15px;
+	float:left;
+}
+
+h1 a
+{
+    text-decoration: none;
+    color: #006600;
+	font-family: Berlin Sans FB Demi, Calibri;
+	font-size:50px;
+}
+
+div#photo
+{
+	align:center;
+	margin-left:150px;
+}
+
+form.login div#bla1
+{
+	margin-left:147px;;
+	margin-top:20px;
+}
+
+form.login label
+{
+	margin:auto;
+    display: block;
+    float: left;
+    width: 100px;
+	font-size:20px;
+}
+
+
+form.login div
+{
+	margin:auto;
+    clear: both;
+    color: #006600;
+}
+
+td#login
+{
+	width:300px;
+}
+
+img#logo
+{
+	margin-left:250px;
+}
+
+td#welcome
+{
+	font-size:105px;
+	text-align:center;
+}
+
+table#first_table
+{
+	margin:auto;
+}
+
+span#bgreen
+{
+	font-family: Berlin Sans FB Demi, Calibri;
+    color: #006600;
+}
+
+table#recycler
+{
+	margin-left:200px;
+}
+
+div#kiosks
+{
+	margin-left:150px;
+}
+
+td#bottles
+{
+	height:400px;
+	width:400px;
+}
+
+td#address
+{
+	width:230px;
+}
+
+td#mun
+{
+	width:100px;
+}
+
+table#gift, div#gift
+{
+	margin-left:140px;
+	margin-top:40px;
+}
+
+table#recyclings
+{
+	margin-left:120px;
+	width:800px;
+}
+
+tr#first_row
+{
+	font-weight:bold;
+	font-size:20px;
+}
+
+div#insert
+{
+	margin-left:150px;
+	margin-top:30px;
+}
+
+div#error
+{
+	font-size:25px;
+	font-weight:bold;
+	text-align:center;
+}
+
+td#emp_name
+{
+	width:90px;
+}
+
+td#emp_sur
+{
+	width:100px;
+}
+
+td#start
+{
+	width:95px;
+}
+
+td#checkout
+{
+	width:95px;
+}
+
+td#occ
+{
+	width:130px;
+}
+
+td#contr
+{
+	width:90px;
+}
+
+td#comm
+{
+	width:100px;
+}
+
+table#gifts
+{
+	margin-top:40px;
+	margin-left:150px;
+}
+
+table#stoixeia
+{
+	margin-left:180px;
+	margin-top:30px;
+}
+td#stoixeia
+{
+	font-weight:bold;
+	font-size:20px;
+}
+td#stoixeia_1
+{
+	font-weight:bold;
+	font-size:15px;
+}
+
+div#stoixeia
+{
+	margin-left:120px;
+}
+
+td#name
+{
+	width:130px;
+}
+
+td#descr
+{
+	width:300px;
+}
+
+td#points
+{
+	width:70px;
+}
+
+td#cat
+{
+	width:110px;
+}
+
+td#price
+{
+	width:70px;
+}
